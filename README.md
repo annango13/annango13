@@ -1,48 +1,24 @@
-## Hi, I'm Trang 👋
-
-🎓 PhD in Computer Science | ☁️ AWS Certified Data Engineer  
-💼 Senior Data & AI Engineer (ex-Sanofi)  
-🌍 Based in France 
-
-
----
-
-## 🚀 About Me
-
-Data Engineer with **12+ years in IT**, including experience across  
+Hi, I'm a data engineer with **12+ years in IT**, including experience across  
 **Business Analysis → Research (IoT & Streaming) → Data Engineering**
 
-- ⚡ Real-time data streaming (Kafka, Flink)  
+- ⚡ Real-time data streaming 
 - ☁️ AWS cloud data platforms  
 - 🏗️ Scalable, event-driven architectures  
-- 🔄 End-to-end data pipelines (Oracle MES, PI Historian, Snowflake, S3, Neo4j, Kafka, Flink, dbt, Airflow)
----
+- 🔄 End-to-end scalable streaming data pipelines for pharmaceutical manufacturings (Oracle MES, PI Historian, Snowflake, S3, Neo4j, Kafka, Flink, dbt, Airflow)
 
-## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, Bash  
-**Data:** Kafka, Flink, Airflow, dbt  
-**Cloud:** AWS (MSK, Flink, S3, IAM)  
-**Storage:** Snowflake, PostgreSQL, MongoDB, Neo4j  
-**DevOps:** Docker, Kubernetes, Terraform  
+#### Courses & Learning
+- **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is a collection of 100 numpy exercises, from easy to hard. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/numpy-100?style=social">
+- **[Computational Neuroscience course](https://github.com/rougier/CNCC-2020)** A gentle introduction to computational neuroscience in Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/CNCC-2020?style=social">
+- **[C++ Crash course](https://github.com/rougier/CPP-Crash-Course)** is an introduction to C++ for C programmers. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/CPP-Crash-Course?style=social">
+- **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets (+ 2 handouts) that I designed. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/matplotlib/cheatsheets?style=social">
+- **[Git & GitHub course](https://github.com/rougier/URFIST-git-course)** A gentle introduction to git and GitHub. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/URFIST-git-course?style=social">
+- **[Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)** A gentle tutorial on Matplotlib, the all-mighty visualization library. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/matplotlib-tutorial?style=social">
+- **[Numpy tutorial](https://github.com/rougier/numpy-tutorial)** An introduction to Numpy for beginners. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/numpy-tutorial?style=social">
 
----
 
-## 📂 Highlight
 
-**Real-time Data Platform @ Sanofi**  
-Built scalable streaming pipelines for pharmaceutical manufacturing leveraging Kafka, Flink, and AWS.
 
----
-
-## 🤝 Connect
-
-- [LinkedIn](https://www.linkedin.com/in/t-t-trang-ngo-1643a062/)
-- [Email](anna.ngo13@gmail.com)
-
----
-
-⭐️ Feel free to explore my projects!
 <!--
 **annango13/annango13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
