@@ -1,4 +1,4 @@
-## Hi 👋 I'm Trang
+## Hi, I'm Trang 👋
 
 🎓 PhD in Computer Science | ☁️ AWS Certified Data Engineer  
 💼 Senior Data & AI Engineer (ex-Sanofi)  
@@ -10,13 +10,12 @@
 ## 🚀 About Me
 
 Data Engineer with **12+ years in IT**, including experience across  
-**Business Analysis → Research (IoT & Streaming) → Data Engineering**.
+**Business Analysis → Research (IoT & Streaming) → Data Engineering**
 
 - ⚡ Real-time data streaming (Kafka, Flink)  
 - ☁️ AWS cloud data platforms  
 - 🏗️ Scalable, event-driven architectures  
-- 🔄 End-to-end data pipelines (S3, Snowflake, dbt, Neo4j)  
-
+- 🔄 End-to-end data pipelines (Oracle MES, PI Historian, Snowflake, S3, Neo4j, Kafka, Flink, dbt, Airflow)
 ---
 
 ## 🛠️ Tech Stack
@@ -32,14 +31,14 @@ Data Engineer with **12+ years in IT**, including experience across
 ## 📂 Highlight
 
 **Real-time Data Platform @ Sanofi**  
-Built scalable streaming pipelines for pharmaceutical manufacturing leverage the top tools Kafka, Flink, and AWS.
+Built scalable streaming pipelines for pharmaceutical manufacturing leveraging Kafka, Flink, and AWS.
 
 ---
 
 ## 🤝 Connect
 
-- LinkedIn: [(https://www.linkedin.com/in/t-t-trang-ngo-1643a062/)]  
-- Email: [anna.ngo13@gmail.com]  
+- [LinkedIn](https://www.linkedin.com/in/t-t-trang-ngo-1643a062/)
+- [Email](anna.ngo13@gmail.com)
 
 ---
 
