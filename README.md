@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi 👋 I'm Trang
+## Hi 👋 I'm Trang
 
 🎓 PhD in Computer Science | ☁️ AWS Certified Data Engineer  
 💼 Senior Data & AI Engineer (ex-Sanofi)  
