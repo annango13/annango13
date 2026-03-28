@@ -1,5 +1,5 @@
 Hi, I'm a data engineer with **12+ years in IT**, including experience across  
-**Business Analysis → Research (IoT & Streaming) → Data Engineering**
+**Business Analyst → Research (IoT & Streaming) → Data Engineering**
 
 - ⚡ Real-time data streaming 
 - ☁️ AWS cloud data platforms  
