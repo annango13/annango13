@@ -7,6 +7,7 @@ Hi, I'm a data engineer with **10+ years in IT**, including experience across
 - 🔄 End-to-end scalable streaming data pipelines for pharmaceutical manufacturings (Snowflake, S3, Neo4j, Kafka, Flink, dbt, Airflow, Oracle DB)
 
 
+<!--
 #### Highlighted courses:
 - **[100 Numpy Exercises](https://github.com/rougier/numpy-100)** is a collection of 100 numpy exercises, from easy to hard. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/rougier/numpy-100?style=social">
 - **[Matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)** are the official cheasheets (+ 2 handouts) that I designed. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/matplotlib/cheatsheets?style=social">
